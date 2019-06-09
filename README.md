@@ -23,5 +23,13 @@
 ## BloodHunt
 * https://github.com/BloodHoundAD/BloodHound --> Compilar
 
-## 
+## PowerUpSQL
+* https://github.com/NetSPI/PowerUpSQL
 
+## Set-RemotePSRemoting - Set-RemoteWMI
+* https://github.com/samratashok/nishang
+* https://github.com/samratashok/nishang/tree/master/Shells
+
+# Enlaces
+* https://www.theanuragsrivastava.in/2019/05/review-of-pentester-academy-attacking.html
+* https://ired.team/offensive-security-experiments/active-directory-kerberos-abuse/abusing-active-directory-acls-aces#self-self-membership-on-group
